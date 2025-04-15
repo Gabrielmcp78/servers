@@ -33287,3 +33287,302 @@ This file is being treated as an ES module because it has a '.js' file extension
     at async handleMainPromise (node:internal/modules/run_main:113:12)
 
 Node.js v20.11.1
+file:///Users/gabrielmcp/Library/Application%20Support/MCP/mcp-native-servers.js:4
+const { spawn } = require('child_process');
+                  ^
+
+ReferenceError: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and '/Users/gabrielmcp/Library/Application Support/MCP/package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+    at file:///Users/gabrielmcp/Library/Application%20Support/MCP/mcp-native-servers.js:4:19
+    at ModuleJob.run (node:internal/modules/esm/module_job:218:25)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:329:24)
+    at async loadESM (node:internal/process/esm_loader:28:7)
+    at async handleMainPromise (node:internal/modules/run_main:113:12)
+
+Node.js v20.11.1
+file:///Users/gabrielmcp/Library/Application%20Support/MCP/mcp-native-servers.js:4
+const { spawn } = require('child_process');
+                  ^
+
+ReferenceError: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and '/Users/gabrielmcp/Library/Application Support/MCP/package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+    at file:///Users/gabrielmcp/Library/Application%20Support/MCP/mcp-native-servers.js:4:19
+    at ModuleJob.run (node:internal/modules/esm/module_job:218:25)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:329:24)
+    at async loadESM (node:internal/process/esm_loader:28:7)
+    at async handleMainPromise (node:internal/modules/run_main:113:12)
+
+Node.js v20.11.1
+file:///Users/gabrielmcp/Library/Application%20Support/MCP/mcp-native-servers.js:4
+const { spawn } = require('child_process');
+                  ^
+
+ReferenceError: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and '/Users/gabrielmcp/Library/Application Support/MCP/package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+    at file:///Users/gabrielmcp/Library/Application%20Support/MCP/mcp-native-servers.js:4:19
+    at ModuleJob.run (node:internal/modules/esm/module_job:218:25)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:329:24)
+    at async loadESM (node:internal/process/esm_loader:28:7)
+    at async handleMainPromise (node:internal/modules/run_main:113:12)
+
+Node.js v20.11.1
+file:///Users/gabrielmcp/Library/Application%20Support/MCP/mcp-native-servers.js:4
+const { spawn } = require('child_process');
+                  ^
+
+ReferenceError: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and '/Users/gabrielmcp/Library/Application Support/MCP/package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+    at file:///Users/gabrielmcp/Library/Application%20Support/MCP/mcp-native-servers.js:4:19
+    at ModuleJob.run (node:internal/modules/esm/module_job:218:25)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:329:24)
+    at async loadESM (node:internal/process/esm_loader:28:7)
+    at async handleMainPromise (node:internal/modules/run_main:113:12)
+
+Node.js v20.11.1
+file:///Users/gabrielmcp/Library/Application%20Support/MCP/mcp-native-servers.js:4
+const { spawn } = require('child_process');
+                  ^
+
+ReferenceError: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and '/Users/gabrielmcp/Library/Application Support/MCP/package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+    at file:///Users/gabrielmcp/Library/Application%20Support/MCP/mcp-native-servers.js:4:19
+    at ModuleJob.run (node:internal/modules/esm/module_job:218:25)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:329:24)
+    at async loadESM (node:internal/process/esm_loader:28:7)
+    at async handleMainPromise (node:internal/modules/run_main:113:12)
+
+Node.js v20.11.1
+file:///Users/gabrielmcp/Library/Application%20Support/MCP/mcp-native-servers.js:4
+const { spawn } = require('child_process');
+                  ^
+
+ReferenceError: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and '/Users/gabrielmcp/Library/Application Support/MCP/package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+    at file:///Users/gabrielmcp/Library/Application%20Support/MCP/mcp-native-servers.js:4:19
+    at ModuleJob.run (node:internal/modules/esm/module_job:218:25)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:329:24)
+    at async loadESM (node:internal/process/esm_loader:28:7)
+    at async handleMainPromise (node:internal/modules/run_main:113:12)
+
+Node.js v20.11.1
+file:///Users/gabrielmcp/Library/Application%20Support/MCP/mcp-native-servers.js:4
+const { spawn } = require('child_process');
+                  ^
+
+ReferenceError: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and '/Users/gabrielmcp/Library/Application Support/MCP/package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+    at file:///Users/gabrielmcp/Library/Application%20Support/MCP/mcp-native-servers.js:4:19
+    at ModuleJob.run (node:internal/modules/esm/module_job:218:25)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:329:24)
+    at async loadESM (node:internal/process/esm_loader:28:7)
+    at async handleMainPromise (node:internal/modules/run_main:113:12)
+
+Node.js v20.11.1
+file:///Users/gabrielmcp/Library/Application%20Support/MCP/mcp-native-servers.js:4
+const { spawn } = require('child_process');
+                  ^
+
+ReferenceError: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and '/Users/gabrielmcp/Library/Application Support/MCP/package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+    at file:///Users/gabrielmcp/Library/Application%20Support/MCP/mcp-native-servers.js:4:19
+    at ModuleJob.run (node:internal/modules/esm/module_job:218:25)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:329:24)
+    at async loadESM (node:internal/process/esm_loader:28:7)
+    at async handleMainPromise (node:internal/modules/run_main:113:12)
+
+Node.js v20.11.1
+file:///Users/gabrielmcp/Library/Application%20Support/MCP/mcp-native-servers.js:4
+const { spawn } = require('child_process');
+                  ^
+
+ReferenceError: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and '/Users/gabrielmcp/Library/Application Support/MCP/package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+    at file:///Users/gabrielmcp/Library/Application%20Support/MCP/mcp-native-servers.js:4:19
+    at ModuleJob.run (node:internal/modules/esm/module_job:218:25)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:329:24)
+    at async loadESM (node:internal/process/esm_loader:28:7)
+    at async handleMainPromise (node:internal/modules/run_main:113:12)
+
+Node.js v20.11.1
+file:///Users/gabrielmcp/Library/Application%20Support/MCP/mcp-native-servers.js:4
+const { spawn } = require('child_process');
+                  ^
+
+ReferenceError: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and '/Users/gabrielmcp/Library/Application Support/MCP/package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+    at file:///Users/gabrielmcp/Library/Application%20Support/MCP/mcp-native-servers.js:4:19
+    at ModuleJob.run (node:internal/modules/esm/module_job:218:25)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:329:24)
+    at async loadESM (node:internal/process/esm_loader:28:7)
+    at async handleMainPromise (node:internal/modules/run_main:113:12)
+
+Node.js v20.11.1
+file:///Users/gabrielmcp/Library/Application%20Support/MCP/mcp-native-servers.js:4
+const { spawn } = require('child_process');
+                  ^
+
+ReferenceError: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and '/Users/gabrielmcp/Library/Application Support/MCP/package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+    at file:///Users/gabrielmcp/Library/Application%20Support/MCP/mcp-native-servers.js:4:19
+    at ModuleJob.run (node:internal/modules/esm/module_job:218:25)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:329:24)
+    at async loadESM (node:internal/process/esm_loader:28:7)
+    at async handleMainPromise (node:internal/modules/run_main:113:12)
+
+Node.js v20.11.1
+file:///Users/gabrielmcp/Library/Application%20Support/MCP/mcp-native-servers.js:4
+const { spawn } = require('child_process');
+                  ^
+
+ReferenceError: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and '/Users/gabrielmcp/Library/Application Support/MCP/package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+    at file:///Users/gabrielmcp/Library/Application%20Support/MCP/mcp-native-servers.js:4:19
+    at ModuleJob.run (node:internal/modules/esm/module_job:218:25)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:329:24)
+    at async loadESM (node:internal/process/esm_loader:28:7)
+    at async handleMainPromise (node:internal/modules/run_main:113:12)
+
+Node.js v20.11.1
+file:///Users/gabrielmcp/Library/Application%20Support/MCP/mcp-native-servers.js:4
+const { spawn } = require('child_process');
+                  ^
+
+ReferenceError: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and '/Users/gabrielmcp/Library/Application Support/MCP/package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+    at file:///Users/gabrielmcp/Library/Application%20Support/MCP/mcp-native-servers.js:4:19
+    at ModuleJob.run (node:internal/modules/esm/module_job:218:25)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:329:24)
+    at async loadESM (node:internal/process/esm_loader:28:7)
+    at async handleMainPromise (node:internal/modules/run_main:113:12)
+
+Node.js v20.11.1
+file:///Users/gabrielmcp/Library/Application%20Support/MCP/mcp-native-servers.js:4
+const { spawn } = require('child_process');
+                  ^
+
+ReferenceError: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and '/Users/gabrielmcp/Library/Application Support/MCP/package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+    at file:///Users/gabrielmcp/Library/Application%20Support/MCP/mcp-native-servers.js:4:19
+    at ModuleJob.run (node:internal/modules/esm/module_job:218:25)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:329:24)
+    at async loadESM (node:internal/process/esm_loader:28:7)
+    at async handleMainPromise (node:internal/modules/run_main:113:12)
+
+Node.js v20.11.1
+file:///Users/gabrielmcp/Library/Application%20Support/MCP/mcp-native-servers.js:4
+const { spawn } = require('child_process');
+                  ^
+
+ReferenceError: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and '/Users/gabrielmcp/Library/Application Support/MCP/package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+    at file:///Users/gabrielmcp/Library/Application%20Support/MCP/mcp-native-servers.js:4:19
+    at ModuleJob.run (node:internal/modules/esm/module_job:218:25)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:329:24)
+    at async loadESM (node:internal/process/esm_loader:28:7)
+    at async handleMainPromise (node:internal/modules/run_main:113:12)
+
+Node.js v20.11.1
+file:///Users/gabrielmcp/Library/Application%20Support/MCP/mcp-native-servers.js:4
+const { spawn } = require('child_process');
+                  ^
+
+ReferenceError: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and '/Users/gabrielmcp/Library/Application Support/MCP/package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+    at file:///Users/gabrielmcp/Library/Application%20Support/MCP/mcp-native-servers.js:4:19
+    at ModuleJob.run (node:internal/modules/esm/module_job:218:25)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:329:24)
+    at async loadESM (node:internal/process/esm_loader:28:7)
+    at async handleMainPromise (node:internal/modules/run_main:113:12)
+
+Node.js v20.11.1
+file:///Users/gabrielmcp/Library/Application%20Support/MCP/mcp-native-servers.js:4
+const { spawn } = require('child_process');
+                  ^
+
+ReferenceError: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and '/Users/gabrielmcp/Library/Application Support/MCP/package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+    at file:///Users/gabrielmcp/Library/Application%20Support/MCP/mcp-native-servers.js:4:19
+    at ModuleJob.run (node:internal/modules/esm/module_job:218:25)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:329:24)
+    at async loadESM (node:internal/process/esm_loader:28:7)
+    at async handleMainPromise (node:internal/modules/run_main:113:12)
+
+Node.js v20.11.1
+file:///Users/gabrielmcp/Library/Application%20Support/MCP/mcp-native-servers.js:4
+const { spawn } = require('child_process');
+                  ^
+
+ReferenceError: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and '/Users/gabrielmcp/Library/Application Support/MCP/package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+    at file:///Users/gabrielmcp/Library/Application%20Support/MCP/mcp-native-servers.js:4:19
+    at ModuleJob.run (node:internal/modules/esm/module_job:218:25)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:329:24)
+    at async loadESM (node:internal/process/esm_loader:28:7)
+    at async handleMainPromise (node:internal/modules/run_main:113:12)
+
+Node.js v20.11.1
+file:///Users/gabrielmcp/Library/Application%20Support/MCP/mcp-native-servers.js:4
+const { spawn } = require('child_process');
+                  ^
+
+ReferenceError: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and '/Users/gabrielmcp/Library/Application Support/MCP/package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+    at file:///Users/gabrielmcp/Library/Application%20Support/MCP/mcp-native-servers.js:4:19
+    at ModuleJob.run (node:internal/modules/esm/module_job:218:25)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:329:24)
+    at async loadESM (node:internal/process/esm_loader:28:7)
+    at async handleMainPromise (node:internal/modules/run_main:113:12)
+
+Node.js v20.11.1
+file:///Users/gabrielmcp/Library/Application%20Support/MCP/mcp-native-servers.js:4
+const { spawn } = require('child_process');
+                  ^
+
+ReferenceError: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and '/Users/gabrielmcp/Library/Application Support/MCP/package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+    at file:///Users/gabrielmcp/Library/Application%20Support/MCP/mcp-native-servers.js:4:19
+    at ModuleJob.run (node:internal/modules/esm/module_job:218:25)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:329:24)
+    at async loadESM (node:internal/process/esm_loader:28:7)
+    at async handleMainPromise (node:internal/modules/run_main:113:12)
+
+Node.js v20.11.1
+file:///Users/gabrielmcp/Library/Application%20Support/MCP/mcp-native-servers.js:4
+const { spawn } = require('child_process');
+                  ^
+
+ReferenceError: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and '/Users/gabrielmcp/Library/Application Support/MCP/package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+    at file:///Users/gabrielmcp/Library/Application%20Support/MCP/mcp-native-servers.js:4:19
+    at ModuleJob.run (node:internal/modules/esm/module_job:218:25)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:329:24)
+    at async loadESM (node:internal/process/esm_loader:28:7)
+    at async handleMainPromise (node:internal/modules/run_main:113:12)
+
+Node.js v20.11.1
+file:///Users/gabrielmcp/Library/Application%20Support/MCP/mcp-native-servers.js:4
+const { spawn } = require('child_process');
+                  ^
+
+ReferenceError: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and '/Users/gabrielmcp/Library/Application Support/MCP/package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+    at file:///Users/gabrielmcp/Library/Application%20Support/MCP/mcp-native-servers.js:4:19
+    at ModuleJob.run (node:internal/modules/esm/module_job:218:25)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:329:24)
+    at async loadESM (node:internal/process/esm_loader:28:7)
+    at async handleMainPromise (node:internal/modules/run_main:113:12)
+
+Node.js v20.11.1
+file:///Users/gabrielmcp/Library/Application%20Support/MCP/mcp-native-servers.js:4
+const { spawn } = require('child_process');
+                  ^
+
+ReferenceError: require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and '/Users/gabrielmcp/Library/Application Support/MCP/package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+    at file:///Users/gabrielmcp/Library/Application%20Support/MCP/mcp-native-servers.js:4:19
+    at ModuleJob.run (node:internal/modules/esm/module_job:218:25)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:329:24)
+    at async loadESM (node:internal/process/esm_loader:28:7)
+    at async handleMainPromise (node:internal/modules/run_main:113:12)
+
+Node.js v20.11.1
