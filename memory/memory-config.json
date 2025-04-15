@@ -1,0 +1,21 @@
+{
+  "server": {
+    "socketPath": "/Users/gabrielmcp/Library/Application Support/MCP/memory-server.sock",
+    "logLevel": "info"
+  },
+  "storage": {
+    "basePath": "/Users/gabrielmcp/Library/Application Support/MCP/memory",
+    "backupInterval": "1h",
+    "maxBackups": 24
+  },
+  "indices": {
+    "enableTextIndex": true,
+    "enableVectorIndex": true,
+    "enableMetadataIndex": true
+  },
+  "vectorization": {
+    "model": "text-embedding-ada-002",
+    "dimensions": 1536,
+    "batchSize": 10
+  }
+}

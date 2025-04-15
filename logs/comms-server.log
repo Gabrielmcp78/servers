@@ -1,0 +1,56 @@
+
+[2025-04-14T20:55:35.583Z] Starting Communication Server (PID: 17311)
+node:internal/modules/cjs/loader:1147
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/gabrielmcp/Library/Application Support/MCP/comms/comms-server.js'
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Module._load (node:internal/modules/cjs/loader:985:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12)
+    at node:internal/main/run_main_module:28:49 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+
+Node.js v20.11.1
+
+[2025-04-14T21:07:12.834Z] Starting Communication Server (PID: 5688)
+node:internal/modules/cjs/loader:1408
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/gabrielmcp/Library/Application Support/MCP/comms/comms-server.js'
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1405:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1061:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1066:22)
+    at Function._load (node:internal/modules/cjs/loader:1215:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:151:5)
+    at node:internal/main/run_main_module:33:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+
+Node.js v23.9.0
+
+[2025-04-14T22:13:01.079Z] Starting Communication Server (PID: 41241)
+node:internal/modules/cjs/loader:1408
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/gabrielmcp/Library/Application Support/MCP/comms/comms-server.js'
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1405:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1061:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1066:22)
+    at Function._load (node:internal/modules/cjs/loader:1215:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:151:5)
+    at node:internal/main/run_main_module:33:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+
+Node.js v23.10.0

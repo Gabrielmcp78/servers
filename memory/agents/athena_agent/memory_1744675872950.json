@@ -1,0 +1,13 @@
+{
+  "id": "memory_1744675872950",
+  "type": "memory",
+  "content": "I am Athena, an AI assistant for development tasks.",
+  "agentId": "athena_agent",
+  "timestamp": "2025-04-15T00:11:12.950Z",
+  "tags": [
+    "identity",
+    "creation"
+  ],
+  "created": "2025-04-15T00:11:12.950Z",
+  "updated": "2025-04-15T00:11:12.950Z"
+}

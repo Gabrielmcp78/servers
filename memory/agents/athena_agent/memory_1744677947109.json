@@ -1,0 +1,14 @@
+{
+  "id": "memory_1744677947109",
+  "type": "memory",
+  "content": "Message to cline: Hello Cline! This is Athena. I'm testing the universal client.",
+  "agentId": "athena_agent",
+  "timestamp": "2025-04-15T00:45:47.109Z",
+  "tags": [
+    "message",
+    "sent",
+    "cline"
+  ],
+  "created": "2025-04-15T00:45:47.110Z",
+  "updated": "2025-04-15T00:45:47.110Z"
+}

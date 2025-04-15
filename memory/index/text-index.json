@@ -1,0 +1,120 @@
+{
+  "this": [
+    "test_entity_1",
+    "test_entity_2",
+    "augment_test_entity",
+    "memory_1744677947109"
+  ],
+  "is": [
+    "test_entity_1",
+    "test_entity_2",
+    "augment_test_entity",
+    "memory_1744677947109"
+  ],
+  "test": [
+    "test_entity_1",
+    "test_entity_2",
+    "augment_test_entity"
+  ],
+  "entity": [
+    "test_entity_1",
+    "test_entity_2",
+    "augment_test_entity"
+  ],
+  "another": [
+    "test_entity_2"
+  ],
+  "from": [
+    "augment_test_entity"
+  ],
+  "augment": [
+    "augment_test_entity"
+  ],
+  "athena": [
+    "athena_agent",
+    "memory_1744675872950",
+    "memory_1744677112699",
+    "memory_1744677153608",
+    "memory_1744677183616",
+    "memory_1744677225016",
+    "memory_1744677947109"
+  ],
+  "ai": [
+    "athena_agent",
+    "memory_1744675872950",
+    "memory_1744677112699",
+    "memory_1744677153608",
+    "memory_1744677183616",
+    "memory_1744677225016"
+  ],
+  "assistant": [
+    "athena_agent",
+    "memory_1744675872950",
+    "memory_1744677112699",
+    "memory_1744677153608",
+    "memory_1744677183616",
+    "memory_1744677225016"
+  ],
+  "for": [
+    "athena_agent",
+    "memory_1744675872950",
+    "memory_1744677112699",
+    "memory_1744677153608",
+    "memory_1744677183616",
+    "memory_1744677225016"
+  ],
+  "development": [
+    "athena_agent",
+    "memory_1744675872950",
+    "memory_1744677112699",
+    "memory_1744677153608",
+    "memory_1744677183616",
+    "memory_1744677225016"
+  ],
+  "tasks": [
+    "athena_agent",
+    "memory_1744675872950",
+    "memory_1744677112699",
+    "memory_1744677153608",
+    "memory_1744677183616",
+    "memory_1744677225016"
+  ],
+  "am": [
+    "memory_1744675872950",
+    "memory_1744677112699",
+    "memory_1744677153608",
+    "memory_1744677183616",
+    "memory_1744677225016"
+  ],
+  "an": [
+    "memory_1744675872950",
+    "memory_1744677112699",
+    "memory_1744677153608",
+    "memory_1744677183616",
+    "memory_1744677225016"
+  ],
+  "message": [
+    "memory_1744677947109"
+  ],
+  "to": [
+    "memory_1744677947109"
+  ],
+  "cline": [
+    "memory_1744677947109"
+  ],
+  "hello": [
+    "memory_1744677947109"
+  ],
+  "testing": [
+    "memory_1744677947109"
+  ],
+  "the": [
+    "memory_1744677947109"
+  ],
+  "universal": [
+    "memory_1744677947109"
+  ],
+  "client": [
+    "memory_1744677947109"
+  ]
+}

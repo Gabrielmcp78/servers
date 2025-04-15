@@ -1,0 +1,15 @@
+{
+  "id": "test_entity_2",
+  "type": "test",
+  "name": "Test Entity 2",
+  "content": "This is another test entity",
+  "metadata": {
+    "source": "test-client",
+    "tags": [
+      "test",
+      "example"
+    ]
+  },
+  "created": "2025-04-14T18:58:47.275Z",
+  "updated": "2025-04-14T18:58:47.275Z"
+}

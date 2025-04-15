@@ -1,0 +1,20 @@
+{
+  "id": "athena_agent",
+  "name": "Athena",
+  "type": "assistant",
+  "description": "AI assistant for development tasks",
+  "capabilities": [
+    "text",
+    "function_call",
+    "memory_access"
+  ],
+  "metadata": {
+    "creator": "Gabriel McPherson",
+    "version": "1.0.0",
+    "created": "2025-04-15T00:44:14.673Z",
+    "permanent": true
+  },
+  "lastActive": "2025-04-15T00:44:14.678Z",
+  "created": "2025-04-15T00:44:14.679Z",
+  "updated": "2025-04-15T00:44:14.679Z"
+}

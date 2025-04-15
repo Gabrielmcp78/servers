@@ -1,0 +1,20 @@
+{
+  "mcpServers": {
+    "@21st-dev/magic": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@21st-dev/magic@latest",
+        "API_KEY=\"f6788f4be299da7dcb2d1ad182b99eca45d06d02c62470c32f1e8e1d4a7273fb\""
+      ]
+    },
+    "software-planning-tool": {
+      "command": "node",
+      "args": [
+        "/Users/gabrielmcp/Library/Application Support/MCP/servers/software-planning-mcp/build/index.js"
+      ],
+      "disabled": false,
+      "autoApprove": []
+    }
+  }
+}

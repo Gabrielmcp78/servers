@@ -1,0 +1,99 @@
+{
+  "source": {
+    "test-client": [
+      "test_entity_1",
+      "test_entity_2"
+    ],
+    "augment": [
+      "augment_test_entity"
+    ]
+  },
+  "tags": {
+    "test": [
+      "test_entity_1",
+      "test_entity_2"
+    ],
+    "example": [
+      "test_entity_1",
+      "test_entity_2"
+    ],
+    "identity": [
+      "memory_1744675872950",
+      "memory_1744677112699",
+      "memory_1744677153608",
+      "memory_1744677183616",
+      "memory_1744677225016"
+    ],
+    "creation": [
+      "memory_1744675872950",
+      "memory_1744677112699",
+      "memory_1744677153608",
+      "memory_1744677183616",
+      "memory_1744677225016"
+    ],
+    "message": [
+      "memory_1744677947109"
+    ],
+    "sent": [
+      "memory_1744677947109"
+    ],
+    "cline": [
+      "memory_1744677947109"
+    ]
+  },
+  "timestamp": {
+    "2025-04-14T19:12:25.427Z": [
+      "augment_test_entity"
+    ],
+    "2025-04-14T19:13:28.241Z": [
+      "augment_test_entity"
+    ],
+    "2025-04-14T19:13:50.895Z": [
+      "augment_test_entity"
+    ]
+  },
+  "creator": {
+    "Gabriel McPherson": [
+      "athena_agent"
+    ]
+  },
+  "version": {
+    "1.0.0": [
+      "athena_agent"
+    ]
+  },
+  "created": {
+    "2025-04-15T00:07:51.843Z": [
+      "athena_agent"
+    ],
+    "2025-04-15T00:09:21.155Z": [
+      "athena_agent"
+    ],
+    "2025-04-15T00:11:12.936Z": [
+      "athena_agent"
+    ],
+    "2025-04-15T00:31:52.670Z": [
+      "athena_agent"
+    ],
+    "2025-04-15T00:32:33.536Z": [
+      "athena_agent"
+    ],
+    "2025-04-15T00:33:03.582Z": [
+      "athena_agent"
+    ],
+    "2025-04-15T00:33:44.992Z": [
+      "athena_agent"
+    ],
+    "2025-04-15T00:42:50.501Z": [
+      "athena_agent"
+    ],
+    "2025-04-15T00:44:14.673Z": [
+      "athena_agent"
+    ]
+  },
+  "permanent": {
+    "true": [
+      "athena_agent"
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-client-test",
+  "version": "1.0.0",
+  "description": "Test for MCP Client",
+  "type": "module",
+  "main": "test-mcp-client.js"
+}

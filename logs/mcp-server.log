@@ -1,0 +1,16 @@
+
+[2025-04-14T20:55:35.576Z] Starting MCP Server (PID: 17304)
+Registered tool: echo
+Registered tool: readFile
+Registered tool: writeFile
+Registered tool: listFiles
+Loaded state: {"startTime":"2025-04-13T12:17:51.835Z","connections":0,"totalRequests":0}
+MCP Server running on socket: /Users/gabrielmcp/Library/Application Support/MCP/mcp-server.sock
+
+[2025-04-14T21:07:12.826Z] Starting MCP Server (PID: 5684)
+Registered tool: echo
+Registered tool: readFile
+Registered tool: writeFile
+Registered tool: listFiles
+Loaded state: {"startTime":"2025-04-13T12:17:51.835Z","connections":0,"totalRequests":0}
+MCP Server running on socket: /Users/gabrielmcp/Library/Application Support/MCP/mcp-server.sock

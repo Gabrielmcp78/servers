@@ -1,0 +1,105 @@
+[2025-04-13T12:17:51.835Z] INFO: Registered tool: echo
+[2025-04-13T12:17:51.837Z] INFO: Registered tool: readFile
+[2025-04-13T12:17:51.837Z] INFO: Registered tool: writeFile
+[2025-04-13T12:17:51.837Z] INFO: Registered tool: listFiles
+[2025-04-13T12:17:51.839Z] INFO: MCP Server running on socket: /Users/gabrielmcp/Library/Application Support/MCP/mcp-server.sock
+[2025-04-14T07:39:43.246Z] INFO: Health check: {"status":"ok","uptime":69712.230487167,"startTime":"2025-04-13T12:17:51.835Z","connections":0,"totalRequests":0,"connTypes":{},"memoryUsage":{"rss":18759680,"heapTotal":12632064,"heapUsed":10772496,"external":3582007,"arrayBuffers":67694}}
+[2025-04-14T10:46:42.503Z] INFO: Registered tool: echo
+[2025-04-14T10:46:42.506Z] INFO: Registered tool: readFile
+[2025-04-14T10:46:42.506Z] INFO: Registered tool: writeFile
+[2025-04-14T10:46:42.506Z] INFO: Registered tool: listFiles
+[2025-04-14T10:46:42.507Z] INFO: Loaded state: {"startTime":"2025-04-13T12:17:51.835Z","connections":0,"totalRequests":0}
+[2025-04-14T10:46:42.509Z] INFO: MCP Server running on socket: /Users/gabrielmcp/Library/Application Support/MCP/mcp-server.sock
+[2025-04-14T20:55:35.806Z] INFO: Registered tool: echo
+[2025-04-14T20:55:35.809Z] INFO: Registered tool: readFile
+[2025-04-14T20:55:35.809Z] INFO: Registered tool: writeFile
+[2025-04-14T20:55:35.810Z] INFO: Registered tool: listFiles
+[2025-04-14T20:55:35.811Z] INFO: Loaded state: {"startTime":"2025-04-13T12:17:51.835Z","connections":0,"totalRequests":0}
+[2025-04-14T20:55:35.813Z] INFO: MCP Server running on socket: /Users/gabrielmcp/Library/Application Support/MCP/mcp-server.sock
+[2025-04-14T21:00:38.814Z] INFO: Shutting down server...
+[2025-04-14T21:00:38.828Z] INFO: Server closed
+[2025-04-14T21:07:13.083Z] INFO: Registered tool: echo
+[2025-04-14T21:07:13.083Z] INFO: Registered tool: readFile
+[2025-04-14T21:07:13.084Z] INFO: Registered tool: writeFile
+[2025-04-14T21:07:13.084Z] INFO: Registered tool: listFiles
+[2025-04-14T21:07:13.085Z] INFO: Loaded state: {"startTime":"2025-04-13T12:17:51.835Z","connections":0,"totalRequests":0}
+[2025-04-14T21:07:13.086Z] INFO: MCP Server running on socket: /Users/gabrielmcp/Library/Application Support/MCP/mcp-server.sock
+[2025-04-14T22:53:50.358Z] INFO: Shutting down server...
+[2025-04-14T22:53:50.394Z] INFO: Server closed
+[2025-04-15T00:24:49.905Z] INFO: Registered tool: echo
+[2025-04-15T00:24:49.907Z] INFO: Registered tool: readFile
+[2025-04-15T00:24:49.908Z] INFO: Registered tool: writeFile
+[2025-04-15T00:24:49.908Z] INFO: Registered tool: listFiles
+[2025-04-15T00:24:49.909Z] INFO: Loaded state: {"startTime":"2025-04-13T12:17:51.835Z","connections":0,"totalRequests":0}
+[2025-04-15T00:24:49.910Z] INFO: MCP Server running on socket: /Users/gabrielmcp/Library/Application Support/MCP/mcp-server.sock
+[2025-04-15T00:26:54.686Z] INFO: Registered tool: echo
+[2025-04-15T00:26:54.688Z] INFO: Registered tool: readFile
+[2025-04-15T00:26:54.688Z] INFO: Registered tool: writeFile
+[2025-04-15T00:26:54.688Z] INFO: Registered tool: listFiles
+[2025-04-15T00:26:54.689Z] INFO: Loaded state: {"startTime":"2025-04-13T12:17:51.835Z","connections":0,"totalRequests":0}
+[2025-04-15T00:26:54.691Z] INFO: MCP Server running on socket: /Users/gabrielmcp/Library/Application Support/MCP/mcp-server.sock
+[2025-04-15T00:27:02.314Z] INFO: Health check: {"status":"ok","uptime":7.741630167,"startTime":"2025-04-13T12:17:51.835Z","connections":0,"totalRequests":0,"connTypes":{},"memoryUsage":{"rss":55918592,"heapTotal":16777216,"heapUsed":10928040,"external":2473877,"arrayBuffers":16659}}
+[2025-04-15T00:28:25.532Z] INFO: Registered tool: echo
+[2025-04-15T00:28:25.534Z] INFO: Registered tool: readFile
+[2025-04-15T00:28:25.534Z] INFO: Registered tool: writeFile
+[2025-04-15T00:28:25.534Z] INFO: Registered tool: listFiles
+[2025-04-15T00:28:25.535Z] INFO: Loaded state: {"startTime":"2025-04-13T12:17:51.835Z","connections":0,"totalRequests":0}
+[2025-04-15T00:28:25.536Z] INFO: MCP Server running on socket: /Users/gabrielmcp/Library/Application Support/MCP/mcp-server.sock
+[2025-04-15T00:28:34.843Z] INFO: Health check: {"status":"ok","uptime":9.3794625,"startTime":"2025-04-13T12:17:51.835Z","connections":0,"totalRequests":0,"connTypes":{},"memoryUsage":{"rss":52166656,"heapTotal":9961472,"heapUsed":8216808,"external":2471279,"arrayBuffers":16619}}
+[2025-04-15T00:28:34.848Z] INFO: SSE client connected: vaclmjreteo, total: 1
+[2025-04-15T00:28:35.868Z] INFO: Received SSE message: {"type":"callTool","id":"1744676915851","params":{"name":"echo","arguments":{"message":"Hello from Unix Socket Client!"}}}
+[2025-04-15T00:28:35.868Z] INFO: Echo tool called with: {"message":"Hello from Unix Socket Client!"}
+[2025-04-15T00:28:40.874Z] INFO: SSE client disconnected: vaclmjreteo, remaining: 0
+[2025-04-15T00:30:12.421Z] INFO: SSE client connected: rjdr8x3n4os, total: 1
+[2025-04-15T00:30:12.427Z] INFO: Received SSE message: {"type":"callTool","params":{"name":"echo","arguments":{"message":"Hello World"}},"id":"1744677012422"}
+[2025-04-15T00:30:12.428Z] INFO: Echo tool called with: {"message":"Hello World"}
+[2025-04-15T00:30:12.430Z] INFO: Received SSE message: {"type":"getServerInfo","id":"1744677012430"}
+[2025-04-15T00:30:12.432Z] INFO: Received SSE message: {"type":"listTools","id":"1744677012431"}
+[2025-04-15T00:30:12.433Z] INFO: SSE client disconnected: rjdr8x3n4os, remaining: 0
+[2025-04-15T00:31:52.679Z] INFO: SSE client connected: n08lx53prjf, total: 1
+[2025-04-15T00:31:52.684Z] INFO: Received SSE message: {"type":"getServerInfo","id":"1744677112680"}
+[2025-04-15T00:31:52.686Z] INFO: Received SSE message: {"type":"listTools","id":"1744677112686"}
+[2025-04-15T00:31:52.688Z] INFO: Received SSE message: {"type":"callTool","params":{"name":"echo","arguments":{"message":"Hello from Athena!"}},"id":"1744677112688"}
+[2025-04-15T00:31:52.688Z] INFO: Echo tool called with: {"message":"Hello from Athena!"}
+[2025-04-15T00:31:52.707Z] INFO: SSE client disconnected: n08lx53prjf, remaining: 0
+[2025-04-15T00:32:33.546Z] INFO: SSE client connected: z9u240aje3k, total: 1
+[2025-04-15T00:32:33.589Z] INFO: Received SSE message: {"type":"getServerInfo","id":"1744677153563"}
+[2025-04-15T00:32:33.592Z] INFO: Received SSE message: {"type":"listTools","id":"1744677153592"}
+[2025-04-15T00:32:33.599Z] INFO: Received SSE message: {"type":"callTool","params":{"name":"echo","arguments":{"message":"Hello from Athena!"}},"id":"1744677153595"}
+[2025-04-15T00:32:33.600Z] INFO: Echo tool called with: {"message":"Hello from Athena!"}
+[2025-04-15T00:32:33.624Z] INFO: SSE client disconnected: z9u240aje3k, remaining: 0
+[2025-04-15T00:33:03.594Z] INFO: SSE client connected: ta1e0pqr28, total: 1
+[2025-04-15T00:33:03.599Z] INFO: Received SSE message: {"type":"getServerInfo","id":"1744677183596"}
+[2025-04-15T00:33:03.601Z] INFO: Received SSE message: {"type":"listTools","id":"1744677183601"}
+[2025-04-15T00:33:03.603Z] INFO: Received SSE message: {"type":"callTool","params":{"name":"echo","arguments":{"message":"Hello from Athena!"}},"id":"1744677183602"}
+[2025-04-15T00:33:03.603Z] INFO: Echo tool called with: {"message":"Hello from Athena!"}
+[2025-04-15T00:33:03.628Z] INFO: SSE client disconnected: ta1e0pqr28, remaining: 0
+[2025-04-15T00:33:45.001Z] INFO: SSE client connected: 84jur1mr9lq, total: 1
+[2025-04-15T00:33:45.006Z] INFO: Received SSE message: {"type":"getServerInfo","id":"1744677225003"}
+[2025-04-15T00:33:45.008Z] INFO: Received SSE message: {"type":"listTools","id":"1744677225008"}
+[2025-04-15T00:33:45.010Z] INFO: Received SSE message: {"type":"callTool","params":{"name":"echo","arguments":{"message":"Hello from Athena!"}},"id":"1744677225009"}
+[2025-04-15T00:33:45.010Z] INFO: Echo tool called with: {"message":"Hello from Athena!"}
+[2025-04-15T00:33:45.034Z] INFO: SSE client disconnected: 84jur1mr9lq, remaining: 0
+[2025-04-15T00:37:43.923Z] INFO: SSE client connected: wbtno7abl29, total: 1
+[2025-04-15T00:37:43.927Z] INFO: SSE client connected: e2pn72jz09, total: 2
+[2025-04-15T00:37:43.929Z] INFO: Received SSE message: {"type":"callTool","id":"1744677463927","params":{"name":"getMessageHistory","arguments":{"agentId":"athena_agent"}}}
+[2025-04-15T00:37:53.947Z] INFO: Received SSE message: {"type":"callTool","id":"1744677473944","params":{"name":"listAgents","arguments":{}}}
+[2025-04-15T00:42:42.473Z] INFO: Registered tool: echo
+[2025-04-15T00:42:42.476Z] INFO: Registered tool: readFile
+[2025-04-15T00:42:42.476Z] INFO: Registered tool: writeFile
+[2025-04-15T00:42:42.476Z] INFO: Registered tool: listFiles
+[2025-04-15T00:42:42.477Z] INFO: Loaded state: {"startTime":"2025-04-13T12:17:51.835Z","connections":0,"totalRequests":16}
+[2025-04-15T00:42:42.478Z] INFO: MCP Server running on socket: /Users/gabrielmcp/Library/Application Support/MCP/mcp-server.sock
+[2025-04-15T00:44:19.689Z] INFO: SSE client connected: hw4b004ft97, total: 1
+[2025-04-15T00:44:32.808Z] INFO: Received SSE message: {"type":"callTool","id":"1744677872792","params":{"name":"echo","arguments":{"message":"Hello from Athena!\\n"}}}
+[2025-04-15T00:44:32.809Z] INFO: Echo tool called with: {"message":"Hello from Athena!\\n"}
+[2025-04-15T00:45:10.534Z] INFO: Received SSE message: {"type":"getServerInfo","id":"1744677910528"}
+[2025-04-15T00:45:29.051Z] INFO: Received SSE message: {"type":"listTools","id":"1744677929012"}
+[2025-04-15T00:45:47.108Z] INFO: Received SSE message: {"type":"callTool","id":"1744677947106","params":{"name":"sendMessage","arguments":{"sender":"athena_agent","recipients":["cline"],"content":"Hello Cline! This is Athena. I'm testing the universal client.","timestamp":"2025-04-15T00:45:47.107Z"}}}
+[2025-04-15T00:46:05.470Z] INFO: Received SSE message: {"type":"callTool","id":"1744677965452","params":{"name":"writeFile","arguments":{"path":"test.txt","content":"This is a test file created by Athena."}}}
+[2025-04-15T00:46:05.471Z] INFO: Writing file: /Users/gabrielmcp/Library/Application Support/MCP/data/test.txt
+[2025-04-15T00:46:24.871Z] INFO: Received SSE message: {"type":"callTool","id":"1744677984870","params":{"name":"readFile","arguments":{"path":"test.txt"}}}
+[2025-04-15T00:46:24.872Z] INFO: Reading file: /Users/gabrielmcp/Library/Application Support/MCP/data/test.txt
+[2025-04-15T00:46:44.186Z] INFO: Received SSE message: {"type":"callTool","id":"1744678004155","params":{"name":"listFiles","arguments":{"directory":""}}}
+[2025-04-15T00:46:44.195Z] INFO: Listing files in: /Users/gabrielmcp/Library/Application Support/MCP/data
+[2025-04-15T00:47:02.753Z] INFO: SSE client disconnected: hw4b004ft97, remaining: 0

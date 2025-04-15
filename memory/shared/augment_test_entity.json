@@ -1,0 +1,12 @@
+{
+  "id": "augment_test_entity",
+  "type": "test",
+  "name": "Augment Test Entity",
+  "content": "This is a test entity from Augment",
+  "metadata": {
+    "source": "augment",
+    "timestamp": "2025-04-14T19:13:50.895Z"
+  },
+  "created": "2025-04-14T19:13:50.898Z",
+  "updated": "2025-04-14T19:13:50.898Z"
+}

@@ -1,0 +1,12 @@
+{
+  "sourceId": "test_entity_1",
+  "targetId": "test_entity_2",
+  "type": "related_to",
+  "properties": {
+    "strength": 0.8,
+    "description": "Test relationship"
+  },
+  "id": "rel_1744657127278_4cb6836a",
+  "created": "2025-04-14T18:58:47.279Z",
+  "updated": "2025-04-14T18:58:47.279Z"
+}

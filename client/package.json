@@ -1,0 +1,10 @@
+{
+  "name": "macos-mcp-client",
+  "version": "1.0.0",
+  "description": "MCP Client for Unix Domain Sockets with Socket.IO",
+  "main": "mcp-lib.js",
+  "type": "module",
+  "dependencies": {
+    "socket.io-client": "^4.7.2"
+  }
+}
